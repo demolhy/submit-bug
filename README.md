@@ -7,4 +7,4 @@
 
 3.处理完成后用户可以查询状态
 
-用到的技术栈 前端Vue3+ts 后端koa2+mongoose 数据库mongodb
+用到的技术栈 前端Vue3+ts+vite 后端koa2+mongoose 数据库mongodb
